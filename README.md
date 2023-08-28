@@ -1,6 +1,10 @@
 # Password-Generator
 I will be making a Password generator via JavaScript (challenge 3)
 
+# How The Project Works 
+The application works by generating a random password using your choics of symbols , letters, and or numbers. To Start click on Generate Password
+![image](https://github.com/SRGsanti/Password-Generator/assets/125318014/eab806f3-96b3-4707-8e7b-cf23bba21086)
+
 # User Story 
 - AS AN employee with access to sensitive data
 - I WANT to randomly generate a password that meets certain criteria
